@@ -20,3 +20,4 @@ document.write("<br><br>Hola " + username);
 let numero1 = parseInt(prompt("Escribe un numero: "));
 let numero2 = parseInt(prompt("Escribe otro numero: "));
 document.write("El resultado de la suma es: " + (numero1 + numero2));
+
